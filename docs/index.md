@@ -36,10 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[![](./bta_button_100.png.png)](http://localhost/test)
+[![](./bta_button_100.png)](http://localhost/test)
 
 [![](./bta_button.png)](http://localhost/test)
 
-  [![](./bta_button_100.png.png)](http://localhost/test)
+  [![](./bta_button_100.png)](http://localhost/test)
 
   [![](./bta_button.png)](http://localhost/test)
