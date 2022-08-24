@@ -24,3 +24,5 @@ This action will send your entire event object to a webhook.
   [![](http://localhost:3000/api/badges/bta/"Send to a webhook")]('https://bta.a0.gg?URL=https%3A%2F%2Fraw.githubusercontent.com%2Famba-sandbox%2Fdangerous-frog%2Fmain%2Fa0%2Factions%2Flogin%2Fforward-to-a-webhook.js&trigger=post-login&defaultName=Send%20to%20a%20webhook&dependency=qs&dependency=axios%40latest&secret=APIKEY&secret=BIN%3Dasd')
   
   [![Bring the Action!](http://localhost:3000/api/badges/bta/Send_to_a_webhook)]('https://bta.a0.gg?URL=https%3A%2F%2Fraw.githubusercontent.com%2Famba-sandbox%2Fdangerous-frog%2Fmain%2Fa0%2Factions%2Flogin%2Fforward-to-a-webhook.js&trigger=post-login&defaultName=Send%20to%20a%20webhook&dependency=qs&dependency=axios%40latest&secret=APIKEY&secret=BIN%3Dasd')
+  
+  [![Bring the Action!](https://lt.a0.gg/api/badges/bta/%22Send%20to%20a%20webhook%22)](https://bta.a0.gg?URL=https%3A%2F%2Fraw.githubusercontent.com%2Famba-sandbox%2Fdangerous-frog%2Fmain%2Fa0%2Factions%2Flogin%2Fforward-to-a-webhook.js&trigger=post-login&defaultName=Send%20to%20a%20webhook&dependency=qs&dependency=axios%40latest&secret=APIKEY&secret=BIN%3Dasd)
